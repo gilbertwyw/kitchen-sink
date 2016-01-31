@@ -41,6 +41,8 @@ values."
      react
      (shell :variables
             shell-default-shell 'shell)
+     (colors :variables
+               colors-enable-nyan-cat-progress-bar '(display-graphic-p))
      )
    ;; List of additional packages that will be installed without being
    ;; wrapped in a layer. If you need some configuration for these
