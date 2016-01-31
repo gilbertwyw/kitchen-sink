@@ -38,6 +38,7 @@ values."
      unimpaired
      dash
      javascript
+     react
      (shell :variables
             shell-default-shell 'shell)
      )
