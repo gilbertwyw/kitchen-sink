@@ -37,6 +37,7 @@ values."
                  evil-snipe-enable-alternate-f-and-t-behaviors t)
      ;; tpope's vim-unimpaired
      unimpaired
+     vinegar
      dash
      javascript
      react
