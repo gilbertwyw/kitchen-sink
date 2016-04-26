@@ -14,3 +14,4 @@ ln -s ~/kitchen-sink/spacemacs ~/.spacemacs
 ## Notes ##
 
 - To preview markdown, `brew install markdown` 
+- For 'javascript' layer, `npm i -g tern`
