@@ -29,7 +29,7 @@ values."
      emacs-lisp
      git
      markdown
-     ;; org
+     org
      ;; spell-checking
      syntax-checking
      version-control
